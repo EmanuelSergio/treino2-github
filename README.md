@@ -2,6 +2,12 @@
 
 <body>
 
+<header>
+<h1>BOM DIA PABLO MARÇAL</h1>
+<img src="https://blog.polipet.com.br/wp-content/uploads/2024/01/pato-445x445.jpeg"/>
+<a>Header muito bom ótimo</a>
+</header>
+
 <section>
 <h2>Título do texto importante</h2>
 <a>Texto importantíssimo</a>
